@@ -6,6 +6,7 @@ xhofe/alist:latest
 # --platform=linux/arm64 xiaoyaliu/alist
 robd003/python3.10:3.10.2
 utkuozdemir/nvidia_gpu_exporter:1.2.1
+google/cadvisor:latest
 
 
 
