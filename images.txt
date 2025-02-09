@@ -8,6 +8,6 @@ robd003/python3.10:3.10.2
 utkuozdemir/nvidia_gpu_exporter:1.2.1
 google/cadvisor:latest
 ollama/ollama:0.5.8-rc11
-
+mintplexlabs/anythingllm:latest
 
 
