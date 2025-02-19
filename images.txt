@@ -12,6 +12,6 @@ mintplexlabs/anythingllm:latest
 infiniflow/ragflow:v0.16.0-slim
 infiniflow/ragflow:v0.16.0
 xprobe/xinference:latest
-
+locustio/locust
 
 
