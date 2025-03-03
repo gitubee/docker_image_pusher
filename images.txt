@@ -13,7 +13,7 @@ infiniflow/ragflow:v0.16.0-slim
 infiniflow/ragflow:v0.16.0
 xprobe/xinference:latest
 locustio/locust
-approachingai/ktransformers:0.2.1
+approachingai/ktransformers:v0.2.2rc2-AVX512
 vllm/vllm-openai:latest
 
 
