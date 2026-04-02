@@ -6,14 +6,10 @@ xhofe/alist:latest
 # --platform=linux/arm64 xiaoyaliu/alist
 robd003/python3.10:3.10.2
 utkuozdemir/nvidia_gpu_exporter:1.2.1
-google/cadvisor:latest
 ollama/ollama:0.5.8-rc11
-mintplexlabs/anythingllm:latest
 infiniflow/ragflow:v0.16.0-slim
-xprobe/xinference:latest
-locustio/locust
-approachingai/ktransformers:v0.2.2rc2-AVX512
-vllm/vllm-openai:latest
+docker pull xprobe/xinference:v2.4.0
+
 
 
 
