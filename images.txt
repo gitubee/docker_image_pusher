@@ -9,6 +9,7 @@ utkuozdemir/nvidia_gpu_exporter:1.2.1
 ollama/ollama:0.5.8-rc11
 infiniflow/ragflow:v0.16.0-slim
 xprobe/xinference:v2.4.0
+xprobe/xinference:v2.11.0
 
 
 
