@@ -5,8 +5,7 @@ xhofe/alist:latest
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-xprobe/xinference:v2.12.0
-nousresearch/hermes-agent:v2026.8.3
+xprobe/xinference:v3.2.1
 
 
 
